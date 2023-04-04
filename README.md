@@ -6,7 +6,9 @@ This is a documentation repository for APEX Cloud, written for Documentation Por
 
 ## How to update
 
-Copy the template markdown snippet from _template.md in the root folder and update your content accordingly. Newest content will be at the very top of the docs/home.md file so that it sorted by newest first
+Copy the template markdown snippet from _template.md in the root folder and update your content accordingly. Newest content will be at the very top of the docs/home.md file so that it sorted by newest first.
+
+Update the *Last updated* date in the same page when you are done.
 
 ## File Structure
 
