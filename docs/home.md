@@ -4,7 +4,7 @@ _Last updated: 6 July 2023_
 
 > This space will be updated whenever there is a new release of APEX Cloud,
 > or any relevant information like maintenance windows and downtimes.
-> If you have any queries, you may reach out to us at: [gds_apex@tech.gov.sg](mailto:gds_apex@tech.gov.sg)
+> If you have any queries, you may reach out to us at [go.gov.sg/apex-support](https://go.gov.sg/apex-support).
 
 ### Service Degradation 🚫
 
@@ -14,7 +14,7 @@ Please be informed that APEX Cloud is currently facing **Service Degradation to 
 
 We are aware of the issue and are currently working to recover the affected service. We will provide regular updates on the recovery progress.
 
-If you require any further clarifications on this matter, you may reach us on the [APEX Cloud Service Desk](https://gdsjira.ship.gov.sg/servicedesk/customer/portal/26/user/login?destination=portal%2F26). For emergency cases, please contact our Service Desk at **6908 8270**.
+If you need further clarification, please raise a ticket at the APEX Cloud Service Desk by visiting [go.gov.sg/apex-support](https://go.gov.sg/apex-support). For emergencies, please call the Service Desk at 6908 8270.
 
 ### Maintenance Schedule 🔧
 
