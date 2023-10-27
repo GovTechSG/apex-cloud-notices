@@ -6,3 +6,4 @@
   [2023-08](docs/changelog/2023-08.md)
   [2023-09](docs/changelog/2023-09.md)
   [2023-10](docs/changelog/2023-10.md)
+  [2023-11](docs/changelog/2023-11.md)
