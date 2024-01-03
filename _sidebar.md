@@ -10,3 +10,4 @@
   - [2023-10](docs/changelog/2023-10.md)
   - [2023-11](docs/changelog/2023-11.md)
   - [2023-12](docs/changelog/2023-12.md)
+  - [2024-01](docs/changelog/2024-01.md)
