@@ -30,6 +30,6 @@ As part of our efforts to constantly enhance our system, we will be conducting r
 
 _1 April 2023 - 12:00am_
 
-As of 1/4/2023, APEX Cloud is now generally available. You may refer to the [onboarding documentation](https://docs.developer.tech.gov.sg/docs/apex-cloud-onboarding/) if you would like to manage your APIs with us.
+As of 1/4/2023, APEX Cloud is now generally available. You may refer to the [onboarding documentation](https://docs.developer.tech.gov.sg/docs/complete-apex-user-guide/sections/onboarding/introduction) if you would like to manage your APIs with us.
 
 ---
