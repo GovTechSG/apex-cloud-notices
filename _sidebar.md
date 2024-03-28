@@ -13,3 +13,4 @@
   - [2024-01](docs/changelog/2024-01.md)
   - [2024-02](docs/changelog/2024-02.md)
   - [2024-03](docs/changelog/2024-03.md)
+  - [2024-04](docs/changelog/2024-04.md)
